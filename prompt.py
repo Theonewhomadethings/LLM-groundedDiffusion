@@ -51,11 +51,9 @@ stop = "\n\n"
 
 prompts_demo_gpt4, prompts_demo_gpt3_5 = [], []
 
-# Put what we want to generate when you query GPT-4 for demo here
+# Add your custom prompt for the experiment here
 prompts_demo_gpt4 = [
-    "In an indoor scene, a blue cube directly above a red cube with a vase on the left of them.",
-    "A realistic photo of a wooden table without bananas in an indoor scene",
-    "A realistic image of a white deer and a gray bear in an empty factory scene",
+    "A realistic photo of 10 orange cats lying on the grass",
 ]
 
 # Put what we want to generate when you query GPT-3.5 for demo here
