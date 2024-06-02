@@ -53,7 +53,7 @@ prompts_demo_gpt4, prompts_demo_gpt3_5 = [], []
 
 # Add your custom prompt for the experiment here
 prompts_demo_gpt4 = [
-    "A realistic photo of 10 orange cats lying on the grass",
+    "A realistic photo of 20 orange cats lying on the grass",
 ]
 
 # Put what we want to generate when you query GPT-3.5 for demo here
